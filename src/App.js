@@ -21,7 +21,7 @@ import {
   ColorPicker,
   ColorMapping,
   Editor,
-} from './pages';
+} from './pages/index.jsx';
 import './App.css';
 import { useStateContext } from './contexts/ContextProvider';
 
